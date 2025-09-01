@@ -1,0 +1,10 @@
+[12-Aug-2025 06:41:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'db5t9uq9yggxj1.properties' doesn't exist in /home/customer/www/rsoa75.millioncoders.net/public_html/bnb/index.php:50
+Stack trace:
+#0 /home/customer/www/rsoa75.millioncoders.net/public_html/bnb/index.php(50): mysqli->query('SELECT id, titl...')
+#1 {main}
+  thrown in /home/customer/www/rsoa75.millioncoders.net/public_html/bnb/index.php on line 50
+[12-Aug-2025 06:43:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'db5t9uq9yggxj1.properties' doesn't exist in /home/customer/www/rsoa75.millioncoders.net/public_html/bnb/index.php:50
+Stack trace:
+#0 /home/customer/www/rsoa75.millioncoders.net/public_html/bnb/index.php(50): mysqli->query('SELECT id, titl...')
+#1 {main}
+  thrown in /home/customer/www/rsoa75.millioncoders.net/public_html/bnb/index.php on line 50
